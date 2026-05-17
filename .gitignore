@@ -1,0 +1,10 @@
+# JANGAN pernah upload file-file ini ke GitHub/Vercel!
+config.json
+*.ps1
+status.json
+paket_db.json
+notion_props.json
+last_customer_detail.html
+scratch/
+*.bat
+*.log
